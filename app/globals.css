@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+    margin: none;
+    padding: none;
+    box-sizing: border-box;
+}
